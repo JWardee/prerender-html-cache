@@ -1,0 +1,9 @@
+{
+  "name": "prerender-memory-cache",
+  "version": "1.0.0",
+  "description": "Cache HTML responses from your Prerender server.",
+  "main": "index.js",
+  "author": "James Ward",
+  "license": "MIT",
+  "dependencies": {}
+}
