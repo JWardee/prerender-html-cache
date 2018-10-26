@@ -1,5 +1,5 @@
 {
-  "name": "prerender-memory-cache",
+  "name": "prerender-html-cache",
   "version": "1.0.0",
   "description": "Cache HTML responses from your Prerender server.",
   "main": "index.js",
