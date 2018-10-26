@@ -5,8 +5,10 @@ This plugin is used with your Prerender server to cache HTML responses as files.
 
 From within your Prerender server directory run:
 
+## NPM installation coming soon
+
 ```bash
-$ npm install prerender-memory-cache --save
+$ npm install prerender-html-cache --save
 ```
 ##### server.js
 ```js
