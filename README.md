@@ -12,6 +12,8 @@ $ npm install prerender-html-cache --save
 ```
 ##### server.js
 ```js
+global.scriptPath = __dirname;
+
 const prerender = require('prerender');
 const server = prerender();
 
